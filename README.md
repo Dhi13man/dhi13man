@@ -16,6 +16,7 @@ I like to think of myself as a **jack of all trades**,  on my way to master them
 [<code><img height="200" width="300" src="assets/demo_cvgc.gif" alt="Computer Vision Hand Gesture based Controller"></code>](github.com/Dhi13man/CV-HandGestureControl)
 </div>
 <br><br>
+
 ### Current Targets: 
 1. Getting better at writing **optimised**, **readable** and **scalable** code that best utilize handy **Data Structures and Algorithms**.
 2. Improving on my **Deep Learning Specialization**.
