@@ -75,6 +75,6 @@ I like to think of myself as a **jack of all trades**,  on my way to master 💡
 
 <div align="center">
 
-### Hoping my work inspires or teaches you something new! ❤️
+### Hoping my work inspires you, or teaches you something new! ❤️
 
 </div>
