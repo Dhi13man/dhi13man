@@ -14,7 +14,7 @@ I like to think of myself as a **jack of all trades**,  on my way to master them
 
 <div align="center">
 
-[<code><img height="200" width="300" src="assets/demo_cvgc.gif" alt="Computer Vision Hand Gesture based Controller"></code>](github.com/Dhi13man/CV-HandGestureControl)
+[<code><img height="200" width="300" src="assets/demo_cvgc.gif" alt="Computer Vision Hand Gesture based Controller"></code>](https://github.com/Dhi13man/CV-HandGestureControl)
 </div>
 
 ---
@@ -29,8 +29,8 @@ I like to think of myself as a **jack of all trades**,  on my way to master them
 
 <div align="center">
 
-[<code><img height="200" width="300" src="assets/demo_numcuts.png" alt="NumCuts: HTML/CSS/JS/Electron based GUI Script Executor"></code>](github.com/Dhi13man/NumCuts) [<code><img height="200" width="300" src="assets/demo_snake.png" alt="A brute force-ish Automatic Snake Game Algorithm"></code>](github.com/Dhi13man/SnakeGameAlgo)
-[<code><img height="200" width="300" src="assets/demo_3DES.png" alt="3D Electrostatics Simulator"></code>](github.com/Dhi13man/3Dimensional-Electrostatics-Simulation)
+[<code><img height="200" width="300" src="assets/demo_numcuts.png" alt="NumCuts: HTML/CSS/JS/Electron based GUI Script Executor"></code>](https://github.com/Dhi13man/NumCuts) [<code><img height="200" width="300" src="assets/demo_snake.png" alt="A brute force-ish Automatic Snake Game Algorithm"></code>](https://github.com/Dhi13man/SnakeGameAlgo)
+[<code><img height="200" width="300" src="assets/demo_3DES.png" alt="3D Electrostatics Simulator"></code>](https://github.com/Dhi13man/3Dimensional-Electrostatics-Simulation)
 </div>
 
 ---
@@ -46,20 +46,20 @@ I like to think of myself as a **jack of all trades**,  on my way to master them
 
 ### Languages and Tools:
 
-[<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="cpp"></code>](www.cplusplus.com)
-[<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python"></code>](www.python.org)
-[<code><img height="25" src="assets/ico_flutter.jpg" alt="flutter"></code>](flutter.dev)
-[<code><img height="25" src="assets/ico_tf.jpg" alt="tensorflow+keras"></code>](www.tensorflow.org)
-[<code><img height="25" src="assets/ico_pytorch.jpg" alt="pytorch"></code>](pytorch.org)
-[<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript"></code>](www.javascript.com)
-[<code><img height="25" src="assets/ico_java.jpg" alt="java"></code>](www.java.com)
-[<code><img height="25" src="assets/ico_matlab.jpg" alt="MATLAB"></code>](www.mathworks.com/products/matlab.html)
-[<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="sql"></code>](www.mysql.com)
-[<code><img height="25" src="assets/ico_html.jpg" alt="html5"></code>](html.com)
-[<code><img height="25" src="assets/ico_mxnet.png" alt="Apache MXNet"></code>](mxnet.apache.org)
-[<code><img height="25" src="assets/ico_opencv.jpg" alt="OpenCV"></code>](opencv.org)
-[<code><img height="25" src="assets/ico_arduino.jpg" alt="Arduino"></code>](www.arduino.cc)
-[<code><img height="25" src="assets/ico_aws.jpg" alt="Amazon Web Services"></code>](aws.amazon.com)
+[<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="cpp"></code>](https://www.cplusplus.com)
+[<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python"></code>](https://www.python.org)
+[<code><img height="25" src="assets/ico_flutter.jpg" alt="flutter"></code>](https://flutter.dev)
+[<code><img height="25" src="assets/ico_tf.jpg" alt="tensorflow+keras"></code>](https://www.tensorflow.org)
+[<code><img height="25" src="assets/ico_pytorch.jpg" alt="pytorch"></code>](https://pytorch.org)
+[<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript"></code>](https://www.javascript.com)
+[<code><img height="25" src="assets/ico_java.jpg" alt="java"></code>](https://www.java.com)
+[<code><img height="25" src="assets/ico_matlab.jpg" alt="MATLAB"></code>](https://www.mathworks.com/products/matlab.html)
+[<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="sql"></code>](https://www.mysql.com)
+[<code><img height="25" src="assets/ico_html.jpg" alt="html5"></code>](https://html.com)
+[<code><img height="25" src="assets/ico_mxnet.png" alt="Apache MXNet"></code>](https://mxnet.apache.org)
+[<code><img height="25" src="assets/ico_opencv.jpg" alt="OpenCV"></code>](https://opencv.org)
+[<code><img height="25" src="assets/ico_arduino.jpg" alt="Arduino"></code>](https://www.arduino.cc)
+[<code><img height="25" src="assets/ico_aws.jpg" alt="Amazon Web Services"></code>](https://aws.amazon.com)
 <br><br>
 
 ---
