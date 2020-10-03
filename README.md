@@ -9,13 +9,14 @@
 
 I'm a third year student 🎓 from National Institute of Technology, Silchar, pursuing a Bachelor of Technology Degree in Electronics and Communication Engineering.🔌📶 <br><br> 
 
-I like to think of myself as a **jack of all trades**,  on my way to master them as I go on, whether it be anything from **`IoT`** 🤖 or **`Deep Learning and Artifical Intelligence`** 🧠, or **`Application Development`** 👨‍💻, or just random factoids about **`Game Theory`** 📊📈. I aim to help come up with scalable solutions to problems, and work with teams that build industry changing technology. I also love to guide and teach with fields I am confident in. 👨‍🏫 <br>
+I like to think of myself as a **jack of all trades**,  on my way to master them as I go on, whether it be anything from **`IoT`** 🤖 or **`Deep Learning and Artifical Intelligence`** 🧠, or **`Application Development`** 👨‍💻, or just random factoids about **`Game Theory`** 📊📈. I aim to help come up with scalable solutions to problems, and work with teams that build industry changing technology. I also love to guide and teach with fields I am confident in. 👨‍🏫 
+<br><br>
 
 <div align="center">
 
 [<code><img height="200" width="300" src="assets/demo_cvgc.gif" alt="Computer Vision Hand Gesture based Controller"></code>](github.com/Dhi13man/CV-HandGestureControl)
 </div>
-<br>
+--
 
 ### Current Targets: 
 1. Getting better at writing **optimised**, **readable** and **scalable** code that best utilize handy **Data Structures and Algorithms**.
@@ -30,7 +31,7 @@ I like to think of myself as a **jack of all trades**,  on my way to master them
 [<code><img height="200" width="300" src="assets/demo_numcuts.png" alt="NumCuts: HTML/CSS/JS/Electron based GUI Script Executor"></code>](github.com/Dhi13man/NumCuts) [<code><img height="200" width="300" src="assets/demo_snake.png" alt="A brute force-ish Automatic Snake Game Algorithm"></code>](github.com/Dhi13man/SnakeGameAlgo)
 [<code><img height="200" width="300" src="assets/demo_3DES.png" alt="3D Electrostatics Simulator"></code>](github.com/Dhi13man/3Dimensional-Electrostatics-Simulation)
 </div>
-<br>
+--
 
 ### Personal Work and  Growth:
 
@@ -58,16 +59,16 @@ I like to think of myself as a **jack of all trades**,  on my way to master them
 [<code><img height="25" src="assets/ico_arduino.jpg" alt="Arduino"></code>](www.arduino.cc)
 [<code><img height="25" src="assets/ico_aws.jpg" alt="Amazon Web Services"></code>](aws.amazon.com)
 <br><br>
+--
 
-#### Future Targets:
+### Future Targets:
 1. Learning **Full Stack Development**.
 2. **Work Experience** in a competitive, high stakes environment.
 3. Learning how to develop **pipelines**, to make my solutions **Cloud Compatible** and **Scalable**.
 4. Learning **Natural Language Processing**, my one discomfort in the field of AI.
-
 <br>
 
-### More Information:
+## More Information:
 
 <details>	
   <summary><b>⚡ Github Stats</b></summary>
