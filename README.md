@@ -15,7 +15,7 @@ I like to think of myself as a **jack of all trades**,  on my way to master them
 
 [<code><img height="200" width="300" src="assets/demo_cvgc.gif" alt="Computer Vision Hand Gesture based Controller"></code>](github.com/Dhi13man/CV-HandGestureControl)
 </div>
-<br><br>
+<br>
 
 ### Current Targets: 
 1. Getting better at writing **optimised**, **readable** and **scalable** code that best utilize handy **Data Structures and Algorithms**.
@@ -30,7 +30,7 @@ I like to think of myself as a **jack of all trades**,  on my way to master them
 [<code><img height="200" width="300" src="assets/demo_numcuts.png" alt="NumCuts: HTML/CSS/JS/Electron based GUI Script Executor"></code>](github.com/Dhi13man/NumCuts) [<code><img height="200" width="300" src="assets/demo_snake.png" alt="A brute force-ish Automatic Snake Game Algorithm"></code>](github.com/Dhi13man/SnakeGameAlgo)
 [<code><img height="200" width="300" src="assets/demo_3DES.png" alt="3D Electrostatics Simulator"></code>](github.com/Dhi13man/3Dimensional-Electrostatics-Simulation)
 </div>
-<br><br>
+<br>
 
 ### Personal Work and  Growth:
 
@@ -57,15 +57,15 @@ I like to think of myself as a **jack of all trades**,  on my way to master them
 [<code><img height="25" src="assets/ico_opencv.jpg" alt="OpenCV"></code>](opencv.org)
 [<code><img height="25" src="assets/ico_arduino.jpg" alt="Arduino"></code>](www.arduino.cc)
 [<code><img height="25" src="assets/ico_aws.jpg" alt="Amazon Web Services"></code>](aws.amazon.com)
-
 <br><br>
+
 #### Future Targets:
 1. Learning **Full Stack Development**.
 2. **Work Experience** in a competitive, high stakes environment.
 3. Learning how to develop **pipelines**, to make my solutions **Cloud Compatible** and **Scalable**.
 4. Learning **Natural Language Processing**, my one discomfort in the field of AI.
 
-<br><br>
+<br>
 
 ### More Information:
 
@@ -88,7 +88,7 @@ I like to think of myself as a **jack of all trades**,  on my way to master them
 	    <br />
 	</ul>	
 </details>
-<br><br>
+<br>
 
 #
 
