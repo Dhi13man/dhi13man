@@ -1,4 +1,4 @@
-## I'm [Dhiman Seal](https://github.com/dhi13man/)! 👋 Welcome to my Comfort Zone!  
+## I'm [Dhiman Seal](https://github.com/dhi13man/), 👋 Welcome to my Comfort Zone!  
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/dhi13man)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/dhi13man)
@@ -9,34 +9,31 @@
 
 I'm a third year student 🎓 from National Institute of Technology, Silchar, pursuing a Bachelor of Technology Degree in Electronics and Communication Engineering.🔌📶 <br><br> 
 
-I like to think of myself as a **jack of all trades**,  on my way to master 💡 them as I go on, whether it be **`IoT`** or **`Deep Learning and Artifical Intelligence`**, or **`Application Development`**, or just random factoids about **`Game Theory`**. I aim to help come up with scalable solutions to problems, and work with teams that build industry changing technology. I also love to guide and teach with fields I am confident in 👨🏻‍💻. <br><br>
+I like to think of myself as a **jack of all trades**,  on my way to master them as I go on, whether it be anything from **`IoT`** 🤖 or **`Deep Learning and Artifical Intelligence`** 🧠, or **`Application Development`** 👨‍💻, or just random factoids about **`Game Theory`** 📊📈. I aim to help come up with scalable solutions to problems, and work with teams that build industry changing technology. I also love to guide and teach with fields I am confident in. 👨‍🏫 <br>
 
-#### Current Targets: 
+
+[<code><img height="200" width="300" src="assets/cvgc_demo.gif" alt="Computer Vision Hand Gesture based Controller"></code>](github.com/Dhi13man/CV-HandGestureControl)<br><br>
+### Current Targets: 
 1. Getting better at writing **optimised**, **readable** and **scalable** code that best utilize handy **Data Structures and Algorithms**.
-2. Improving on my Deep Learning Specialization.
-3. Learning  Flutter and creating fun Cross-Platform applications.
-4. Contributing to Open Source.
-5. Learning Reinforcement Learning and GANs.
+2. Improving on my **Deep Learning Specialization**.
+3. Learning **Flutter** and creating fun Cross-Platform applications.
+4. Contributing to **Open Source**.
+5. Learning **Reinforcement Learning** and **GAN**s.
 5. Implementing Research Papers for skill building.
 
-#### Future Targets:
-1. Learning Full Stack Development.
-2. Work Experience in a competitive, high stakes environment.
-3. Learning how to develop pipelines to make my solutions Cloud Compatible and Scalable.
-4. Learning Natural Language Processing, my one discomfort in the field of AI.
-
+[<code><img height="200" width="300" src="assets/demo_numcuts.png" alt="NumCuts: HTML/CSS/JS/Electron based GUI Script Executor"></code>](github.com/Dhi13man/NumCuts) [<code><img height="200" width="300" src="assets/demo_snake.png" alt="A brute force-ish Automatic Snake Game Algorithm"></code>](github.com/Dhi13man/SnakeGameAlgo)[<code><img height="200" width="300" src="assets/demo_3DES.png" alt="3D Electrostatics Simulator"></code>](github.com/Dhi13man/3Dimensional-Electrostatics-Simulation)
 ### Personal Work and  Growth:
 
-- 🛠 &nbsp; Currently conquering IoT development and Innovation Challenges all over the country with my team, Eminence Robotics
+- 🛠 &nbsp; Currently conquering IoT development and Innovation Challenges all over the country with my team, Eminence Robotics.
 - 🚀 &nbsp; Currently learning Cross Platform Flutter Development.
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/dhi13man).
+- 👨🏻‍💻 &nbsp; Many of my projects are available on [Github](https://github.com/dhi13man).
 - 💬 &nbsp; Ask me about anything [here](https://github.com/Dhi13man/dhi13man/issues/1)! I am happy to help.
 - 📫 &nbsp; Contact me at: furyx.ds@gmail.com
 - 📝 &nbsp; Checkout my [Resume](Dhiiman_Seal_CV.pdf).
 
 ### Languages and Tools:
 
-[<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="cpp"></code>](www.cplusplus.com/)
+[<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="cpp"></code>](www.cplusplus.com)
 [<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python"></code>](www.python.org)
 [<code><img height="25" src="assets/ico_flutter.jpg" alt="flutter"></code>](flutter.dev)
 [<code><img height="25" src="assets/ico_tf.jpg" alt="tensorflow+keras"></code>](www.tensorflow.org)
@@ -45,8 +42,18 @@ I like to think of myself as a **jack of all trades**,  on my way to master 💡
 [<code><img height="25" src="assets/ico_java.jpg" alt="java"></code>](www.java.com)
 [<code><img height="25" src="assets/ico_matlab.jpg" alt="MATLAB"></code>](www.mathworks.com/products/matlab.html)
 [<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="sql"></code>](www.mysql.com)
-[<code><img height="25" src="assets/ico_html.jpg" alt="html5"></code>](html.com/)
-[<code><img height="25" src="assets/ico_aws.jpg" alt="Amazon Web Services"></code>](aws.amazon.com/)
+[<code><img height="25" src="assets/ico_html.jpg" alt="html5"></code>](html.com)
+[<code><img height="25" src="assets/ico_mxnet.png" alt="Apache MXNet"></code>](mxnet.apache.org)
+[<code><img height="25" src="assets/ico_opencv.jpg" alt="OpenCV"></code>](opencv.org)
+[<code><img height="25" src="assets/ico_arduino.jpg" alt="Arduino"></code>](www.arduino.cc)
+[<code><img height="25" src="assets/ico_aws.jpg" alt="Amazon Web Services"></code>](aws.amazon.com)
+
+
+#### Future Targets:
+1. Learning **Full Stack Development**.
+2. **Work Experience** in a competitive, high stakes environment.
+3. Learning how to develop **pipelines**, to make my solutions **Cloud Compatible** and **Scalable**.
+4. Learning **Natural Language Processing**, my one discomfort in the field of AI.
 
 
 ### More Information:
