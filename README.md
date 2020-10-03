@@ -16,7 +16,8 @@ I like to think of myself as a **jack of all trades**,  on my way to master them
 
 [<code><img height="200" width="300" src="assets/demo_cvgc.gif" alt="Computer Vision Hand Gesture based Controller"></code>](github.com/Dhi13man/CV-HandGestureControl)
 </div>
---
+
+---
 
 ### Current Targets: 
 1. Getting better at writing **optimised**, **readable** and **scalable** code that best utilize handy **Data Structures and Algorithms**.
@@ -31,7 +32,8 @@ I like to think of myself as a **jack of all trades**,  on my way to master them
 [<code><img height="200" width="300" src="assets/demo_numcuts.png" alt="NumCuts: HTML/CSS/JS/Electron based GUI Script Executor"></code>](github.com/Dhi13man/NumCuts) [<code><img height="200" width="300" src="assets/demo_snake.png" alt="A brute force-ish Automatic Snake Game Algorithm"></code>](github.com/Dhi13man/SnakeGameAlgo)
 [<code><img height="200" width="300" src="assets/demo_3DES.png" alt="3D Electrostatics Simulator"></code>](github.com/Dhi13man/3Dimensional-Electrostatics-Simulation)
 </div>
---
+
+---
 
 ### Personal Work and  Growth:
 
@@ -59,7 +61,8 @@ I like to think of myself as a **jack of all trades**,  on my way to master them
 [<code><img height="25" src="assets/ico_arduino.jpg" alt="Arduino"></code>](www.arduino.cc)
 [<code><img height="25" src="assets/ico_aws.jpg" alt="Amazon Web Services"></code>](aws.amazon.com)
 <br><br>
---
+
+---
 
 ### Future Targets:
 1. Learning **Full Stack Development**.
@@ -75,12 +78,12 @@ I like to think of myself as a **jack of all trades**,  on my way to master them
 
 <img alt="" src="https://github-readme-stats.vercel.app/api?username=dhi13man&show_icons=true&hide_border=true" />
 </details>
-
+<br>
 
  
 <details>	
   <br />
-  <summary><b>⚙️ My Systems</b></summary>
+  <summary><b>⚙️ My System</b></summary>
   	<ul>
   	    <li><b>OS:</b> Windows 10 and Ubuntu 20.04</li>
 	    <li><b>Laptop: </b> Lenovo L340 Gaming (i7 9th Generation Processor with 8GB RAM)</li>
@@ -91,7 +94,7 @@ I like to think of myself as a **jack of all trades**,  on my way to master them
 </details>
 <br>
 
-#
+----
 
 <div align="center">
 
