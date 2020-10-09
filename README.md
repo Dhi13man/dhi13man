@@ -14,7 +14,7 @@ I like to think of myself as a **jack of all trades**,  on my way to master them
 
 <div align="center">
 
-[<code><img height="200" width="300" src="assets/demo_cvgc.gif" alt="Computer Vision Hand Gesture based Controller"></code>](https://github.com/Dhi13man/CV-HandGestureControl)
+[<code><img height="200" width="300" src="https://drive.google.com/uc?export=view&id=1qiGHchkLuIO60MiqoFrJ99nBualcWr5f" alt="Computer Vision Hand Gesture based Controller"></code>](https://github.com/Dhi13man/CV-HandGestureControl)
 </div>
 
 ---
