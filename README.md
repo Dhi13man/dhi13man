@@ -14,7 +14,7 @@ I like to think of myself as a **jack of all trades**,  on my way to master them
 
 <div align="center">
 
-[<code><iframe src="https://drive.google.com/file/d/1iBwjK9tyy6nqxfVpsOCrRe6hr5HL5nr8/preview" width="200" height="300"></iframe></code>](https://github.com/Dhi13man/CV-HandGestureControl)
+[<iframe src="https://drive.google.com/file/d/1iBwjK9tyy6nqxfVpsOCrRe6hr5HL5nr8/preview" width="200" height="300"></iframe>](https://github.com/Dhi13man/CV-HandGestureControl)
 </div>
 
 ---
