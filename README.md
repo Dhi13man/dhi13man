@@ -42,7 +42,7 @@ I like to think of myself as a **jack of all trades**,  on my way to master them
 - 👨🏻‍💻 &nbsp; Many of my projects are available on [Github](https://github.com/dhi13man).
 - 💬 &nbsp; Ask me about anything [here](https://github.com/Dhi13man/dhi13man/issues/1)! I am happy to help.
 - 📫 &nbsp; Contact me at: furyx.ds@gmail.com
-- 📝 &nbsp; Checkout my [Resume](Dhiiman_Seal_CV.pdf).
+- 📝 &nbsp; Checkout my [Resume](https://github.com/Dhi13man/dhi13man/blob/main/Dhiman_Seal_CV.pdf).
 
 ### Languages and Tools:
 
