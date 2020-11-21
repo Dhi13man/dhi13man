@@ -28,12 +28,9 @@ I like to think of myself as a **jack of all trades**,  on my way to master them
 
 <div align="center">
 
-[<code><img height="350" width="300" src="assets/demo_safesync.png" alt="SafeSync IoT Dashboard: A full-fledged Employee Management and Workspace Health and Safety ensuring Solution"></code>](https://github.com/Dhi13man/SafeSync) 
-
-[<code><img height="200" width="300" src="assets/demo_numcuts.png" alt="NumCuts: HTML/CSS/JS/Electron based GUI Script Executor"></code>](https://github.com/Dhi13man/NumCuts) 
+[<code><img height="300" width="300" src="assets/demo_safesync.png" alt="SafeSync IoT Dashboard: A full-fledged Employee Management and Workspace Health and Safety ensuring Solution"></code>](https://github.com/Dhi13man/SafeSyncIoT) [<code><img height="200" width="300" src="assets/demo_numcuts.png" alt="NumCuts: HTML/CSS/JS/Electron based GUI Script Executor"></code>](https://github.com/Dhi13man/NumCuts) 
 
 [<code><img height="200" width="300" src="assets/demo_snake.png" alt="A brute force-ish Automatic Snake Game Algorithm"></code>](https://github.com/Dhi13man/SnakeGameAlgo)
-
 [<code><img height="200" width="300" src="assets/demo_3DES.png" alt="3D Electrostatics Simulator"></code>](https://github.com/Dhi13man/3Dimensional-Electrostatics-Simulation)
 </div>
 
