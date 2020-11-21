@@ -1,15 +1,14 @@
-## I'm [Dhiman Seal](https://github.com/dhi13man/), 👋 Welcome to my Comfort Zone!  
+## I'm [Dhiman Seal](https://github.com/dhi13man/), 👋 Welcome to my Comfort Zone!
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/dhi13man)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/dhi13man)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://dhi13man.github.io/)
 
+### Thank you for taking time to view my profile! &nbsp; !['Visitors'](https://visitor-badge.glitch.me/badge?page_id=dhi13man.dhi13man&style=flat-square&color=0088cc)
 
-### Thank you for taking time to view my profile! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=dhi13man.dhi13man&style=flat-square&color=0088cc)
+I'm a third year student 🎓 from National Institute of Technology, Silchar, pursuing a Bachelor of Technology Degree in Electronics and Communication Engineering.🔌📶 <br><br>
 
-I'm a third year student 🎓 from National Institute of Technology, Silchar, pursuing a Bachelor of Technology Degree in Electronics and Communication Engineering.🔌📶 <br><br> 
-
-I like to think of myself as a **jack of all trades**,  on my way to master them as I go on, whether it be anything from **`IoT`** 🤖 or **`Deep Learning and Artifical Intelligence`** 🧠, or **`Application Development`** 👨‍💻, or just random factoids about **`Game Theory`** 📊📈. I aim to help come up with scalable solutions to problems, and work with teams that build industry changing technology. I also love to guide and teach with fields I am confident in. 👨‍🏫 
+I like to think of myself as a **jack of all trades**,  on my way to master them as I go on, whether it be anything from **`IoT`** 🤖 or **`Deep Learning and Artifical Intelligence`** 🧠, or **`Application Development`** 👨‍💻, or just random factoids about **`Game Theory`** 📊📈. I aim to help come up with scalable solutions to problems, and work with teams that build industry changing technology. I also love to guide and teach with fields I am confident in. 👨‍🏫
 <br><br>
 
 <div align="center">
@@ -19,17 +18,22 @@ I like to think of myself as a **jack of all trades**,  on my way to master them
 
 ---
 
-### Current Targets: 
+### Current Targets
 1. Getting better at writing **optimised**, **readable** and **scalable** code that best utilize handy **Data Structures and Algorithms**.
 2. Improving on my **Deep Learning Specialization**.
 3. Learning **Flutter** and creating fun Cross-Platform applications.
 4. Contributing to **Open Source**.
 5. Learning **Reinforcement Learning** and **GAN**s.
-5. Implementing Research Papers for skill building.
+6. Implementing Research Papers for skill building.
 
 <div align="center">
 
-[<code><img height="200" width="300" src="assets/demo_numcuts.png" alt="NumCuts: HTML/CSS/JS/Electron based GUI Script Executor"></code>](https://github.com/Dhi13man/NumCuts) [<code><img height="200" width="300" src="assets/demo_snake.png" alt="A brute force-ish Automatic Snake Game Algorithm"></code>](https://github.com/Dhi13man/SnakeGameAlgo)
+[<code><img height="350" width="300" src="assets/demo_safesync.png" alt="SafeSync IoT Dashboard: A full-fledged Employee Management and Workspace Health and Safety ensuring Solution"></code>](https://github.com/Dhi13man/SafeSync) 
+
+[<code><img height="200" width="300" src="assets/demo_numcuts.png" alt="NumCuts: HTML/CSS/JS/Electron based GUI Script Executor"></code>](https://github.com/Dhi13man/NumCuts) 
+
+[<code><img height="200" width="300" src="assets/demo_snake.png" alt="A brute force-ish Automatic Snake Game Algorithm"></code>](https://github.com/Dhi13man/SnakeGameAlgo)
+
 [<code><img height="200" width="300" src="assets/demo_3DES.png" alt="3D Electrostatics Simulator"></code>](https://github.com/Dhi13man/3Dimensional-Electrostatics-Simulation)
 </div>
 
