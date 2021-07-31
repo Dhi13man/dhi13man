@@ -46,7 +46,7 @@ You can hire me on [Fiverr](https://www.fiverr.com/dhiman13), or reach out to me
 
 - 🛠 &nbsp; Currently conquering IoT development and Innovation Challenges all over the country with my team, Eminence Robotics.
 - 🚀 &nbsp; Developing Cross Platform Applications for myself and my clients.
-- 👨🏻‍💻 &nbsp; Many of my projects are available on [Github](https://github.com/dhi13man).
+- 👨🏻‍💻 &nbsp; Many of my projects are available on [Github](https://github.com/Dhi13man?tab=repositories).
 - 💬 &nbsp; Ask me about anything [here](https://github.com/Dhi13man/dhi13man/issues/1)! I am happy to help.
 - 📫 &nbsp; Contact me at: furyx.ds@gmail.com
 - 📝 &nbsp; Checkout my [Resume](https://github.com/Dhi13man/dhi13man/blob/main/Dhiman_Seal_CV.pdf).
