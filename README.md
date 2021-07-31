@@ -62,9 +62,9 @@ You can hire me on [Fiverr](https://www.fiverr.com/dhiman13), or reach out to me
 [<code><img height="25" src="assets/icons/ico_arduino.jpg" alt="Arduino"></code>](https://www.arduino.cc)
 [<code><img height="25" src="assets/icons/ico_esp.jpg" alt="ESPressif Boards"></code>](https://www.espressif.com/)
 [<code><img height="25" src="assets/icons/ico_raspberrypi.jpg" alt="Raspberry Pi"></code>](https://www.raspberrypi.org/)
-[<code><img height="25" src="assets/icons/ico_nodejs.png" alt="NodeJS"></code>](https://nodejs.org/en/)
-[<code><img height="25" src="assets/icons/ico_flask.png" alt="Flask"></code>](https://flask.palletsprojects.com/)
-[<code><img height="25" src="assets/icons/ico_firebase.png" alt="Firebase"></code>](https://firebase.google.com/)
+[<code><img height="25" src="assets/icons/ico_nodejs.jpg" alt="NodeJS"></code>](https://nodejs.org/en/)
+[<code><img height="25" src="assets/icons/ico_flask.jpg" alt="Flask"></code>](https://flask.palletsprojects.com/)
+[<code><img height="25" src="assets/icons/ico_firebase.jpg" alt="Firebase"></code>](https://firebase.google.com/)
 [<code><img height="25" src="assets/icons/ico_googlecloud.jpg" alt="Google Cloud"></code>](https://cloud.google.com/)
 [<code><img height="25" src="assets/icons/ico_aws.jpg" alt="Amazon Web Services"></code>](https://aws.amazon.com)
 [<code><img height="25" src="assets/icons/ico_tf.jpg" alt="tensorflow+keras"></code>](https://www.tensorflow.org)
@@ -72,7 +72,7 @@ You can hire me on [Fiverr](https://www.fiverr.com/dhiman13), or reach out to me
 [<code><img height="25" src="assets/icons/ico_matlab.jpg" alt="MATLAB"></code>](https://www.mathworks.com/products/matlab.html)
 [<code><img height="25" src="assets/icons/ico_html.jpg" alt="html5"></code>](https://html.com)
 [<code><img height="25" src="assets/icons/ico_opencv.jpg" alt="OpenCV"></code>](https://opencv.org)
-[<code><img height="25" src="assets/icons/ico_mxnet.png" alt="Apache MXNet"></code>](https://mxnet.apache.org)
+[<code><img height="25" src="assets/icons/ico_mxnet.jpg" alt="Apache MXNet"></code>](https://mxnet.apache.org)
 
 ---
 
