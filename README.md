@@ -5,6 +5,8 @@
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://www.eminencerobotics.org/)
 [<img height="20" width="70" src="assets/other/fiverr_badge.jpg" alt="Fiverr Badge">](https://www.fiverr.com/share/Qdm8oR)
 
+[![Support Me](https://img.buymeacoffee.com/button-api/?text=SUPPORT%20MY%20WORK!&emoji=%F0%9F%92%BB&slug=dhi13man&button_colour=FF5F5F&font_colour=ffffff&font_family=Bree&outline_colour=000000&coffee_colour=FFDD00)](https://www.buymeacoffee.com/dhi13man)
+
 ## Thank you for taking time to view my profile! &nbsp; !['Visitors'](https://visitor-badge.glitch.me/badge?page_id=dhi13man.dhi13man&style=flat-square&color=0088cc)
 
 I'm a fourth year student 🎓 from National Institute of Technology, Silchar, pursuing a Bachelor of Technology Degree in Electronics and Communication Engineering.🔌📶
