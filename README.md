@@ -13,7 +13,7 @@ I like to think of myself as a **jack of all trades**, trying to master them as 
 
 You can hire me on [Fiverr](https://www.fiverr.com/dhiman13), or reach out to me directly on [LinkedIn](https://linkedin.com/in/dhi13man) or [Twitter](https://twitter.com/dhi13man). 💬💬💬
 
-| <img height="200" width="300" src="https://drive.google.com/uc?export=view&id=1qiGHchkLuIO60MiqoFrJ99nBualcWr5f" alt="Have an Overview!"> |
+| ![Have an Overview](https://raw.githubusercontent.com/Dhi13man/CV-HandGestureControl/master/Examples/cvgesture.mp4) |
 | :-------------: |
 | [![Cover Photo](./assets/other/LinkedIn_cover.png)](https://linkedin.com/in/dhi13man) |
 
@@ -57,6 +57,8 @@ You can hire me on [Fiverr](https://www.fiverr.com/dhiman13), or reach out to me
 2. **Work Experience** in a competitive, high stakes environment.
 3. Learning how to create efficient **development pipelines** to improve workflow.
 4. Learning **Natural Language Processing**, my one discomfort in the field of AI.
+
+---
 
 ## More Information
 
