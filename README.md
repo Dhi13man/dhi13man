@@ -17,12 +17,9 @@ You can hire me on [Fiverr](https://www.fiverr.com/dhiman13), or reach out to me
 | :---------------: |
 | [![Cover Photo](./assets/other/LinkedIn_cover.png)](https://linkedin.com/in/dhi13man) |
 
-# This repo has a video on its readme :p
-
+Creating Cool Flexes:
 
 https://raw.githubusercontent.com/Dhi13man/CV-HandGestureControl/master/Examples/cvgesture.mp4
-
-
 
 ---
 
