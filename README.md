@@ -12,12 +12,8 @@ I'm a third year student 🎓 from National Institute of Technology, Silchar, pu
 I like to think of myself as a **jack of all trades**, trying to master them as I go on, whether it be anything from **`IoT`** 🤖 or **`Deep Learning and Artifical Intelligence`** 🧠, or **`Application Development`** 👨‍💻, or just random factoids about **`Game Theory`** 📊📈. I aim to help come up with scalable solutions to problems, and work with teams that build industry changing technology. I also love to guide and teach with fields I am confident in. 👨‍🏫
 
 You can hire me on [Fiverr](https://www.fiverr.com/dhiman13), or reach out to me directly on [LinkedIn](https://linkedin.com/in/dhi13man) or [Twitter](https://twitter.com/dhi13man). 💬💬💬
-<br>
 
-<div align="center">
-
-[<img height="200" width="300" src="https://drive.google.com/uc?export=view&id=1qiGHchkLuIO60MiqoFrJ99nBualcWr5f" alt="Computer Vision Hand Gesture based Controller">](https://github.com/Dhi13man/CV-HandGestureControl)
-</div>
+[![Computer Vision Hand Gesture based Controller](https://drive.google.com/uc?export=view&id=1qiGHchkLuIO60MiqoFrJ99nBualcWr5f)](https://github.com/Dhi13man/CV-HandGestureControl)
 
 ---
 
@@ -29,8 +25,6 @@ You can hire me on [Fiverr](https://www.fiverr.com/dhiman13), or reach out to me
 4. Contributing to **[Open Source](https://github.com/Dhi13man?tab=repositories)**.
 5. Learning various **ML/DL** topics and **Blockchain Development** on the side.
 6. Implementing Research Papers for skill building.
-
-<div align="center">
 
 |[<img height="300" width="300" src="assets/demos/demo_safesync.png" alt="SafeSync IoT Dashboard: A full-fledged Employee Management and Workspace Health and Safety ensuring Solution">](https://github.com/Dhi13man/SafeSyncIoT) | [<img height="300" width="300" src="assets/demos/infrawake.jpg" alt="InfrAwake: IoT Driver Safety Solution">](https://www.eminencerobotics.org/)
 -|-
