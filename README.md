@@ -3,9 +3,7 @@
 | [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/dhi13man) | [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/dhi13man) | [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://www.eminencerobotics.org/) | [<img height="20" width="70" src="assets/other/fiverr_badge.jpg" alt="Fiverr Badge">](https://www.fiverr.com/share/Qdm8oR) |
 | :---: | :---: | :---: | :---: |
 
-| [![Support Me](https://img.buymeacoffee.com/button-api/?text=Support%20my%20Work!&emoji=%F0%9F%92%BB&slug=dhi13man&button_colour=FF5F5F&font_colour=ffffff&font_family=Bree&outline_colour=000000&coffee_colour=FFDD00)](https://www.buymeacoffee.com/dhi13man) |
-| :---: |
-
+[![Support Me](https://img.buymeacoffee.com/button-api/?text=Support%20my%20Work!&emoji=%F0%9F%92%BB&slug=dhi13man&button_colour=FF5F5F&font_colour=ffffff&font_family=Bree&outline_colour=000000&coffee_colour=FFDD00)](https://www.buymeacoffee.com/dhi13man)
 
 ## Thank you for taking time to view my profile! &nbsp; !['Visitors'](https://visitor-badge.glitch.me/badge?page_id=dhi13man.dhi13man&style=flat-square&color=0088cc)
 
@@ -15,9 +13,9 @@ I like to think of myself as a **jack of all trades**, trying to master them as 
 
 You can hire me on [Fiverr](https://www.fiverr.com/dhiman13), or reach out to me directly on [LinkedIn](https://linkedin.com/in/dhi13man) or [Twitter](https://twitter.com/dhi13man). 💬💬💬
 
-| [![Cover Photo](./assets/other/LinkedIn_cover.png)](https://linkedin.com/in/dhi13man) |
-| :-------------: |
 | <img height="200" width="300" src="https://drive.google.com/uc?export=view&id=1qiGHchkLuIO60MiqoFrJ99nBualcWr5f" alt="Have an Overview!"> |
+| :-------------: |
+| [![Cover Photo](./assets/other/LinkedIn_cover.png)](https://linkedin.com/in/dhi13man) |
 
 ---
 
