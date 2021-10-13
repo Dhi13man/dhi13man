@@ -35,9 +35,7 @@ You can hire me on [Fiverr](https://www.fiverr.com/dhiman13), or reach out to me
 
 | [<img height="400" width="400" src="assets/demos/demo_safesync.png" alt="SafeSync IoT Dashboard: A full-fledged Employee Management and Workspace Health and Safety ensuring Solution">](https://github.com/Dhi13man/SafeSyncIoT) | [<img height="400" width="400" src="assets/demos/infrawake.jpg" alt="InfrAwake: IoT Driver Safety Solution">](https://www.eminencerobotics.org/) |
 | :-------------: | :-------------: |
-
 | [<img height="265" width="400" src="assets/demos/demo_snake.png" alt="A brute force-ish Automatic Snake Game Algorithm">](https://github.com/Dhi13man/SnakeGameAlgo) | [<img height="265" width="400" src="assets/demos/demo_3DES.png" alt="3D Electrostatics Simulator">](https://github.com/Dhi13man/3Dimensional-Electrostatics-Simulation) |
-| :-------------: | :-------------: |
 
 ---
 
