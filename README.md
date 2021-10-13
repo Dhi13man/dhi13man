@@ -13,14 +13,13 @@ I like to think of myself as a **jack of all trades**, trying to master them as 
 
 You can hire me on [Fiverr](https://www.fiverr.com/dhiman13), or reach out to me directly on [LinkedIn](https://linkedin.com/in/dhi13man) or [Twitter](https://twitter.com/dhi13man). 💬💬💬
 
-<div align=center>
-
 | [![Cover Photo](./assets/other/LinkedIn_cover.png)](https://linkedin.com/in/dhi13man) |
 | :---: |
 
-| Creating Cool Flexes |
+<div align=center>
+
+| [<img height="300" width="400" src="https://raw.githubusercontent.com/Dhi13man/dhi13man/main/.github/images/demo_cvgc.gif" alt="Computer Vision Hand Gesture based Controller">](https://github.com/Dhi13man/CV-HandGestureControl) |
 | :------------------: |
-| [<img height="200" width="300" src="https://raw.githubusercontent.com/Dhi13man/dhi13man/main/.github/images/demo_cvgc.gif" alt="Computer Vision Hand Gesture based Controller">](https://github.com/Dhi13man/CV-HandGestureControl) |
 </div>
 
 ---
