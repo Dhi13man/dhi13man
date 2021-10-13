@@ -13,7 +13,7 @@ I like to think of myself as a **jack of all trades**, trying to master them as 
 
 You can hire me on [Fiverr](https://www.fiverr.com/dhiman13), or reach out to me directly on [LinkedIn](https://linkedin.com/in/dhi13man) or [Twitter](https://twitter.com/dhi13man). 💬💬💬
 
-| ![Have an Overview](https://raw.githubusercontent.com/Dhi13man/CV-HandGestureControl/master/Examples/cvgesture.mp4) |
+| https://raw.githubusercontent.com/Dhi13man/CV-HandGestureControl/master/Examples/cvgesture.mp4 |
 | :-------------: |
 | [![Cover Photo](./assets/other/LinkedIn_cover.png)](https://linkedin.com/in/dhi13man) |
 
