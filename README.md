@@ -1,11 +1,11 @@
-# I'm [Dhiman Seal](https://github.com/dhi13man/), 👋 Welcome to my Comfort Zone!
+# I'm [Dhiman Seal](https://github.com/dhi13man/), 👋 Welcome to my Comfort Zone
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/dhi13man)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/dhi13man)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://www.eminencerobotics.org/)
 [<img height="20" width="70" src="assets/other/fiverr_badge.jpg" alt="Fiverr Badge">](https://www.fiverr.com/share/Qdm8oR)
 
-[![Support Me](https://img.buymeacoffee.com/button-api/?text=SUPPORT%20MY%20WORK!&emoji=%F0%9F%92%BB&slug=dhi13man&button_colour=FF5F5F&font_colour=ffffff&font_family=Bree&outline_colour=000000&coffee_colour=FFDD00)](https://www.buymeacoffee.com/dhi13man)
+[![Support Me](https://img.buymeacoffee.com/button-api/?text=Support%20my%20Work!&emoji=%F0%9F%92%BB&slug=dhi13man&button_colour=FF5F5F&font_colour=ffffff&font_family=Bree&outline_colour=000000&coffee_colour=FFDD00)](https://www.buymeacoffee.com/dhi13man)
 
 ## Thank you for taking time to view my profile! &nbsp; !['Visitors'](https://visitor-badge.glitch.me/badge?page_id=dhi13man.dhi13man&style=flat-square&color=0088cc)
 
@@ -15,7 +15,9 @@ I like to think of myself as a **jack of all trades**, trying to master them as 
 
 You can hire me on [Fiverr](https://www.fiverr.com/dhiman13), or reach out to me directly on [LinkedIn](https://linkedin.com/in/dhi13man) or [Twitter](https://twitter.com/dhi13man). 💬💬💬
 
-[![Computer Vision Hand Gesture based Controller](https://drive.google.com/uc?export=view&id=1qiGHchkLuIO60MiqoFrJ99nBualcWr5f)](https://github.com/Dhi13man/CV-HandGestureControl)
+| ![Cover Photo](assets\other\LinkedIn_cover.png) |
+| :-------------: |
+| [<img height="200" width="300" src="https://drive.google.com/uc?export=view&id=1qiGHchkLuIO60MiqoFrJ99nBualcWr5f" alt="Have a Overview!">](https://github.com/Dhi13man/CV-HandGestureControl) |
 
 ---
 
@@ -28,13 +30,11 @@ You can hire me on [Fiverr](https://www.fiverr.com/dhiman13), or reach out to me
 5. Learning various **ML/DL** topics and **Blockchain Development** on the side.
 6. Implementing Research Papers for skill building.
 
-|[<img height="300" width="300" src="assets/demos/demo_safesync.png" alt="SafeSync IoT Dashboard: A full-fledged Employee Management and Workspace Health and Safety ensuring Solution">](https://github.com/Dhi13man/SafeSyncIoT) | [<img height="300" width="300" src="assets/demos/infrawake.jpg" alt="InfrAwake: IoT Driver Safety Solution">](https://www.eminencerobotics.org/)
--|-
+| [<img height="300" width="300" src="assets/demos/demo_safesync.png" alt="SafeSync IoT Dashboard: A full-fledged Employee Management and Workspace Health and Safety ensuring Solution">](https://github.com/Dhi13man/SafeSyncIoT) | [<img height="300" width="300" src="assets/demos/infrawake.jpg" alt="InfrAwake: IoT Driver Safety Solution">](https://www.eminencerobotics.org/) |
+| :-------------: | :-------------: |
 
-|[<img height="200" width="300" src="assets/demos/demo_snake.png" alt="A brute force-ish Automatic Snake Game Algorithm">](https://github.com/Dhi13man/SnakeGameAlgo) | [<img height="200" width="300" src="assets/demos/demo_3DES.png" alt="3D Electrostatics Simulator">](https://github.com/Dhi13man/3Dimensional-Electrostatics-Simulation)
--|-
-
-</div>
+| [<img height="200" width="300" src="assets/demos/demo_snake.png" alt="A brute force-ish Automatic Snake Game Algorithm">](https://github.com/Dhi13man/SnakeGameAlgo) | [<img height="200" width="300" src="assets/demos/demo_3DES.png" alt="3D Electrostatics Simulator">](https://github.com/Dhi13man/3Dimensional-Electrostatics-Simulation) |
+| :-------------: | :-------------: |
 
 ---
 
@@ -82,29 +82,15 @@ You can hire me on [Fiverr](https://www.fiverr.com/dhiman13), or reach out to me
 
 ## More Information
 
-<details>	
-  <summary><b>⚡ Github Stats</b></summary>
+### ⚡ Github Stats
 
-<img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=dhi13man&show_icons=true&hide_border=true" />
-</details>
+![Github Stats](https://github-readme-stats.vercel.app/api?username=dhi13man&show_icons=true&hide_border=true)
 
-<details>	
-  <br />
-  <summary><b>⚙️ My System</b></summary>
-   <ul>
-       <li><b>OS:</b> Windows 10 and Ubuntu 20.04</li>
-     <li><b>Laptop: </b> Lenovo L340 Gaming (i7 9th Generation Processor with 8GB RAM)</li>
-       <li><b>Browser: </b> Firefox, Chrome</li>
-     <li><b>Code Editors:</b> I swear by Jetbrains IDEs and VSCode.</li>
-     <br />
- </ul>	
-</details>
-<br>
+### ⚙️ My System
 
-----
-
-<div align="center">
+- OS: Windows 10 and Ubuntu 20.04
+- Laptop: Lenovo L340 Gaming (i7 9th Generation Processor with 8GB RAM)
+- Browser: Firefox, Chrome
+- IDEs: I swear by Jetbrains IDEs and VSCode.
 
 ## Hoping my work inspires you, or teaches you something new! ❤️
-
-</div>
