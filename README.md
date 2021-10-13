@@ -15,9 +15,8 @@ You can hire me on [Fiverr](https://www.fiverr.com/dhiman13), or reach out to me
 
 <div align=center>
 
-| Have an Overview! |
-| :---------------: |
 | [![Cover Photo](./assets/other/LinkedIn_cover.png)](https://linkedin.com/in/dhi13man) |
+| :---: |
 
 | Creating Cool Flexes |
 | :------------------: |
