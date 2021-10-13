@@ -5,11 +5,13 @@
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://www.eminencerobotics.org/)
 [<img height="20" width="70" src="assets/other/fiverr_badge.jpg" alt="Fiverr Badge">](https://www.fiverr.com/share/Qdm8oR)
 
+[![Support Me](https://img.buymeacoffee.com/button-api/?text=SUPPORT%20MY%20WORK!&emoji=%F0%9F%92%BB&slug=dhi13man&button_colour=FF5F5F&font_colour=ffffff&font_family=Bree&outline_colour=000000&coffee_colour=FFDD00)](https://www.buymeacoffee.com/dhi13man)
+
 ## Thank you for taking time to view my profile! &nbsp; !['Visitors'](https://visitor-badge.glitch.me/badge?page_id=dhi13man.dhi13man&style=flat-square&color=0088cc)
 
-I'm a third year student 🎓 from National Institute of Technology, Silchar, pursuing a Bachelor of Technology Degree in Electronics and Communication Engineering.🔌📶
+I'm a fourth year student 🎓 from National Institute of Technology, Silchar, pursuing a Bachelor of Technology Degree in Electronics and Communication Engineering.🔌📶
 
-I like to think of myself as a **jack of all trades**, trying to master them as I go on, whether it be anything from **`IoT`** 🤖 or **`Deep Learning and Artifical Intelligence`** 🧠, or **`Application Development`** 👨‍💻, or just random factoids about **`Game Theory`** 📊📈. I aim to help come up with scalable solutions to problems, and work with teams that build industry changing technology. I also love to guide and teach with fields I am confident in. 👨‍🏫
+I like to think of myself as a **jack of all trades**, trying to master them as I go on, whether it be anything from **`IoT`** 🤖 or **`Application Development`** 👨‍💻, or  **`Deep Learning and Artifical Intelligence`** 🧠, or just random factoids about **`Game Theory`** 📊📈. I aim to help come up with scalable solutions to problems, and work with teams that build industry changing technology. I also love to guide and teach with fields I am confident in. 👨‍🏫
 
 You can hire me on [Fiverr](https://www.fiverr.com/dhiman13), or reach out to me directly on [LinkedIn](https://linkedin.com/in/dhi13man) or [Twitter](https://twitter.com/dhi13man). 💬💬💬
 
@@ -43,7 +45,7 @@ You can hire me on [Fiverr](https://www.fiverr.com/dhiman13), or reach out to me
 - 👨🏻‍💻 &nbsp; Many of my projects are available on [Github](https://github.com/Dhi13man?tab=repositories).
 - 💬 &nbsp; Ask me about anything [here](https://github.com/Dhi13man/dhi13man/issues/1)! I am happy to help.
 - 📫 &nbsp; Contact me at: furyx.ds@gmail.com
-- 📝 &nbsp; Checkout my [Resume](https://github.com/Dhi13man/dhi13man/blob/main/Dhiman_Seal_CV.pdf).
+- 📝 &nbsp; Checkout my [Resume](https://drive.google.com/file/d/17TrMgHoc7ZR2nsKijzk4slW5lATGI5AN/view?usp=sharing).
 
 ### Languages and Tools
 
