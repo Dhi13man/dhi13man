@@ -17,7 +17,7 @@ You can hire me on [Fiverr](https://www.fiverr.com/dhiman13), or reach out to me
 
 | [![Cover Photo](./assets/other/LinkedIn_cover.png)](https://linkedin.com/in/dhi13man) |
 | :-------------: |
-| <img height="200" width="300" src="https://drive.google.com/uc?export=view&id=1qiGHchkLuIO60MiqoFrJ99nBualcWr5f" alt="Have an Overview!">] |
+| <img height="200" width="300" src="https://drive.google.com/uc?export=view&id=1qiGHchkLuIO60MiqoFrJ99nBualcWr5f" alt="Have an Overview!"> |
 
 ---
 
@@ -30,7 +30,7 @@ You can hire me on [Fiverr](https://www.fiverr.com/dhiman13), or reach out to me
 5. Learning various **ML/DL** topics and **Blockchain Development** on the side.
 6. Implementing Research Papers for skill building.
 
-| [<img height="300" width="300" src="assets/demos/demo_safesync.png" alt="SafeSync IoT Dashboard: A full-fledged Employee Management and Workspace Health and Safety ensuring Solution">](https://github.com/Dhi13man/SafeSyncIoT) | [<img height="300" width="300" src="assets/demos/infrawake.jpg" alt="InfrAwake: IoT Driver Safety Solution">](https://www.eminencerobotics.org/) |
+| [<img height="350" width="350" src="assets/demos/demo_safesync.png" alt="SafeSync IoT Dashboard: A full-fledged Employee Management and Workspace Health and Safety ensuring Solution">](https://github.com/Dhi13man/SafeSyncIoT) | [<img height="350" width="350" src="assets/demos/infrawake.jpg" alt="InfrAwake: IoT Driver Safety Solution">](https://www.eminencerobotics.org/) |
 | :-------------: | :-------------: |
 
 | [<img height="200" width="300" src="assets/demos/demo_snake.png" alt="A brute force-ish Automatic Snake Game Algorithm">](https://github.com/Dhi13man/SnakeGameAlgo) | [<img height="200" width="300" src="assets/demos/demo_3DES.png" alt="3D Electrostatics Simulator">](https://github.com/Dhi13man/3Dimensional-Electrostatics-Simulation) |
