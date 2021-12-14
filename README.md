@@ -13,9 +13,9 @@
 | :------------------: |
 </div>
 
-I'm a fourth year student 🎓 from National Institute of Technology, Silchar, pursuing a Bachelor of Technology Degree in Electronics and Communication Engineering.🔌📶
+I'm a fourth-year student 🎓 from the National Institute of Technology, Silchar, pursuing a Bachelor of Technology Degree in Electronics and Communication Engineering.🔌📶
 
-I like to think of myself as a **jack of all trades**, trying to master them as I go on, whether it be anything from **`IoT`** 🤖 or **`Application Development`** 👨‍💻, or  **`Deep Learning and Artifical Intelligence`** 🧠, or just random factoids about **`Game Theory`** 📊📈. I aim to help come up with scalable solutions to problems, and work with teams that build industry changing technology. I also love to guide and teach with fields I am confident in. 👨‍🏫
+I like to think of myself as a jack of all trades, trying to master them as I go on, whether it be anything from IoT 🤖 or Application Development 👨‍💻, or Deep Learning and Artificial Intelligence 🧠, or just random factoids about Game Theory 📊📈. I aim to help come up with scalable solutions to problems and work with teams that build industry-changing technology. I also love to guide and teach in fields I am confident in. 👨‍🏫
 
 You can hire me on [Fiverr](https://www.fiverr.com/dhiman13), or reach out to me directly on [LinkedIn](https://linkedin.com/in/dhi13man) or [Twitter](https://twitter.com/dhi13man). 💬💬💬
 
