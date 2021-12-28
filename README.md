@@ -1,7 +1,7 @@
 # I'm [Dhiman Seal](https://github.com/dhi13man/), 👋 Welcome to my Comfort Zone
 
-| [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/dhi13man) | [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/dhi13man) | [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://www.eminencerobotics.org/) | [<img height="20" width="70" src="assets/other/fiverr_badge.jpg" alt="Fiverr Badge">](https://www.fiverr.com/share/Qdm8oR) |
-| :---: | :---: | :---: | :---: |
+| [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/dhi13man) | [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/dhi13man) | [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://www.eminencerobotics.org/) |
+| :---: | :---: | :---: |
 
 [![Support Me](https://img.buymeacoffee.com/button-api/?text=Support%20my%20Work!&emoji=%F0%9F%92%BB&slug=dhi13man&button_colour=FF5F5F&font_colour=ffffff&font_family=Bree&outline_colour=000000&coffee_colour=FFDD00)](https://www.buymeacoffee.com/dhi13man)
 
@@ -13,11 +13,11 @@
 | :------------------: |
 </div>
 
-I'm a fourth-year student 🎓 from the National Institute of Technology, Silchar, pursuing a Bachelor of Technology Degree in Electronics and Communication Engineering.🔌📶
+I'm a fourth-year student 🎓 from the National Institute of Technology, Silchar, pursuing a Bachelor of Technology Degree in Electronics and Communication Engineering 🔌📶 and I am currently working as a [Backend Software Engineer Intern at Groww!](https://groww.in/) 📉💹📈
 
 I like to think of myself as a jack of all trades, trying to master them as I go on, whether it be anything from IoT 🤖 or Application Development 👨‍💻, or Deep Learning and Artificial Intelligence 🧠, or just random factoids about Game Theory 📊📈. I aim to help come up with scalable solutions to problems and work with teams that build industry-changing technology. I also love to guide and teach in fields I am confident in. 👨‍🏫
 
-You can hire me on [Fiverr](https://www.fiverr.com/dhiman13), or reach out to me directly on [LinkedIn](https://linkedin.com/in/dhi13man) or [Twitter](https://twitter.com/dhi13man). 💬💬💬
+Reach out to me directly on [LinkedIn](https://linkedin.com/in/dhi13man) or [Twitter](https://twitter.com/dhi13man). 💬💬💬
 
 | [![Cover Photo](./assets/other/LinkedIn_cover.png)](https://linkedin.com/in/dhi13man) |
 | :---: |
