@@ -65,7 +65,9 @@ Reach out to me directly on [LinkedIn](https://linkedin.com/in/dhi13man) or [Twi
 
 ## More Information
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=dhi13man&show_icons=true&hide_border=true)
+- [![Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=dhi13man&layout=compact&theme=dark&count_private=true)](https://github.com/Dhi13man)
+
+- ![Github Stats](https://github-readme-stats.vercel.app/api?username=dhi13man&show_icons=true&hide_border=true)
 
 ### ⚙️ My System
 
