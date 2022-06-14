@@ -13,9 +13,9 @@
 | :------------------: |
 </div>
 
-I'm a fourth-year student 🎓 from the National Institute of Technology, Silchar, pursuing a Bachelor of Technology Degree in Electronics and Communication Engineering 🔌📶 and I am currently working as a [Backend Software Engineer Intern at Groww!](https://groww.in/) 📉💹📈
+I have a Bachelor of Technology in Electronics and Communication Engineering 🔌📶 from the National Institute of Technology (NIT), Silchar 🎓 and I am currently working as a [Backend Software Engineer Intern at Groww!](https://groww.in/) 📉💹📈
 
-I like to think of myself as a jack of all trades, trying to master them as I go on, whether it be anything from IoT 🤖 or Application Development 👨‍💻, or Deep Learning and Artificial Intelligence 🧠, or just random factoids about Game Theory 📊📈. I aim to help come up with scalable solutions to problems and work with teams that build industry-changing technology. I also love to guide and teach in fields I am confident in. 👨‍🏫
+I like to think of myself as a jack of all trades, and a master of whatever I need to be, whether it be anything from IoT 🤖 or Application Development 👨‍💻, or Deep Learning and Artificial Intelligence 🧠, or just random factoids about Game Theory 📊📈. I aim to help come up with scalable solutions to problems and work with teams that build industry-changing technology. I also love to guide and teach in fields I am confident in. 👨‍🏫
 
 Reach out to me directly on [LinkedIn](https://linkedin.com/in/dhi13man) or [Twitter](https://twitter.com/dhi13man). 💬💬💬
 
@@ -31,7 +31,6 @@ Reach out to me directly on [LinkedIn](https://linkedin.com/in/dhi13man) or [Twi
 3. Learning **Flutter** and creating fun Cross-Platform applications and Packages.
 4. Contributing to **[Open Source](https://github.com/Dhi13man?tab=repositories)**.
 5. Learning various **ML/DL** topics and **Blockchain Development** on the side.
-6. Implementing Research Papers for skill building.
 
 | [<img height="400" width="400" src="assets/demos/demo_safesync.png" alt="SafeSync IoT Dashboard: A full-fledged Employee Management and Workspace Health and Safety ensuring Solution">](https://github.com/Dhi13man/SafeSyncIoT) | [<img height="400" width="400" src="assets/demos/infrawake.jpg" alt="InfrAwake: IoT Driver Safety Solution">](https://www.eminencerobotics.org/) |
 | :-------------: | :-------------: |
