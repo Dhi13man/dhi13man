@@ -13,7 +13,7 @@
 | :------------------: |
 </div>
 
-I have a Bachelor of Technology in Electronics and Communication Engineering 🔌📶 from the National Institute of Technology (NIT), Silchar 🎓 and I am currently working as a [Backend Software Engineer Intern at Groww!](https://groww.in/) 📉💹📈
+I have a Bachelor of Technology in Electronics and Communication Engineering 🔌📶 from the National Institute of Technology (NIT), Silchar 🎓 and I am currently working as a [Backend Software Engineer at Groww!](https://groww.in/) 📉💹📈
 
 I like to think of myself as a jack of all trades, and a master of whatever I need to be, whether it be anything from IoT 🤖 or Application Development 👨‍💻, or Deep Learning and Artificial Intelligence 🧠, or just random factoids about Game Theory 📊📈. I aim to help come up with scalable solutions to problems and work with teams that build industry-changing technology. I also love to guide and teach in fields I am confident in. 👨‍🏫
 
