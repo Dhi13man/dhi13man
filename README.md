@@ -26,11 +26,11 @@ Reach out to me directly on [LinkedIn](https://linkedin.com/in/dhi13man) or [Twi
 
 ## Current Targets
 
-1. Getting better at writing **optimised**, **readable** and **scalable** code that best utilize handy **Data Structures and Algorithms**.
+1. Getting better at building **optimised** and **scalable** solutions that can handle changing requirements.
 2. Freelancing in the **`IoT`** and **`Application Development`** space.
 3. Learning **Flutter** and creating fun Cross-Platform applications and Packages.
 4. Contributing to **[Open Source](https://github.com/Dhi13man?tab=repositories)**.
-5. Learning various **ML/DL** topics and **Blockchain Development** on the side.
+5. Learning all kinds of technologies on the side.
 
 | [<img height="400" width="400" src="assets/demos/demo_safesync.png" alt="SafeSync IoT Dashboard: A full-fledged Employee Management and Workspace Health and Safety ensuring Solution">](https://github.com/Dhi13man/SafeSyncIoT) | [<img height="400" width="400" src="assets/demos/infrawake.jpg" alt="InfrAwake: IoT Driver Safety Solution">](https://www.eminencerobotics.org/) |
 | :-------------: | :-------------: |
@@ -55,10 +55,8 @@ Reach out to me directly on [LinkedIn](https://linkedin.com/in/dhi13man) or [Twi
 
 ## Future Targets
 
-1. Getting large Scale **Full Stack Application Development** Experience.
-2. **Work Experience** in a competitive, high stakes environment.
-3. Learning how to create efficient **development pipelines** to improve workflow.
-4. Learning **Natural Language Processing**, my one discomfort in the field of AI.
+1. Experience leading a team of my own.
+2. Seeing even more how high scale breaks things, and how to stay on top of it.
 
 ---
 
