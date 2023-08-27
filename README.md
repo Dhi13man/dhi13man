@@ -5,7 +5,7 @@
 
 [![Support Me](https://img.buymeacoffee.com/button-api/?text=Support%20my%20Work!&emoji=%F0%9F%92%BB&slug=dhi13man&button_colour=FF5F5F&font_colour=ffffff&font_family=Bree&outline_colour=000000&coffee_colour=FFDD00)](https://www.buymeacoffee.com/dhi13man)
 
-## Thank you for taking time to view my profile! &nbsp; !['Visitors'](https://visitor-badge.glitch.me/badge?page_id=dhi13man.dhi13man&style=flat-square&color=0088cc)
+## Thank you for taking time to view my profile!
 
 <div align=center>
 
