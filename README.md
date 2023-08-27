@@ -1,7 +1,10 @@
 # I'm [Dhiman Seal](https://github.com/dhi13man/), 👋 Welcome to my Comfort Zone
 
-| [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/dhi13man) | [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/dhi13man) | [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://www.eminencerobotics.org/) |
-| :---: | :---: | :---: |
+| [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/dhi13man) | [![dhi13man's Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@dhi13man) | [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/dhi13man) | [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://www.eminencerobotics.org/) |
+| :---: | :---: | :---: | :---: |
+
+[![GitHub User's stars](https://img.shields.io/github/stars/dhi13man)](https://github.com/Dhi13man?tab=stars)
+[![GitHub followers](https://img.shields.io/github/followers/dhi13man)](https://github.com/Dhi13man?tab=followers)
 
 [![Support Me](https://img.buymeacoffee.com/button-api/?text=Support%20my%20Work!&emoji=%F0%9F%92%BB&slug=dhi13man&button_colour=FF5F5F&font_colour=ffffff&font_family=Bree&outline_colour=000000&coffee_colour=FFDD00)](https://www.buymeacoffee.com/dhi13man)
 
