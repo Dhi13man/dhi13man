@@ -28,9 +28,8 @@ Reach out to me directly on [LinkedIn](https://linkedin.com/in/dhi13man) or [Twi
 
 1. Getting better at building **optimised** and **scalable** solutions that can handle changing requirements.
 2. Freelancing in the **`IoT`** and **`Application Development`** space.
-3. Learning **Flutter** and creating fun Cross-Platform applications and Packages.
+3. Building a B2B SaaS venture in the ed-tech space.
 4. Contributing to **[Open Source](https://github.com/Dhi13man?tab=repositories)**.
-5. Learning all kinds of technologies on the side.
 
 | [<img height="400" width="400" src="assets/demos/demo_safesync.png" alt="SafeSync IoT Dashboard: A full-fledged Employee Management and Workspace Health and Safety ensuring Solution">](https://github.com/Dhi13man/SafeSyncIoT) | [<img height="400" width="400" src="assets/demos/infrawake.jpg" alt="InfrAwake: IoT Driver Safety Solution">](https://www.eminencerobotics.org/) |
 | :-------------: | :-------------: |
@@ -52,11 +51,6 @@ Reach out to me directly on [LinkedIn](https://linkedin.com/in/dhi13man) or [Twi
 | [<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="cpp"></code>](https://www.cplusplus.com) | [<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python"></code>](https://www.python.org) | [<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript"></code>](https://www.javascript.com) | [<code><img height="25" src="assets/icons/ico_flutter.jpg" alt="flutter"></code>](https://flutter.dev) | [<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="sql"></code>](https://www.mysql.com) | [<code><img height="25" src="assets/icons/ico_java.jpg" alt="java"></code>](https://www.java.com) | [<code><img height="25" src="assets/icons/ico_arduino.jpg" alt="Arduino"></code>](https://www.arduino.cc) | [<code><img height="25" src="assets/icons/ico_esp.jpg" alt="ESPressif Boards"></code>](https://www.espressif.com/) | [<code><img height="25" src="assets/icons/ico_raspberrypi.jpg" alt="Raspberry Pi"></code>](https://www.raspberrypi.org/) | [<code><img height="25" src="assets/icons/ico_nodejs.jpg" alt="NodeJS"></code>](https://nodejs.org/en/) |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 [<code><img height="25" src="assets/icons/ico_flask.jpg" alt="Flask"></code>](https://flask.palletsprojects.com/) | [<code><img height="25" src="assets/icons/ico_firebase.jpg" alt="Firebase"></code>](https://firebase.google.com/) | [<code><img height="25" src="assets/icons/ico_googlecloud.jpg" alt="Google Cloud"></code>](https://cloud.google.com/) | [<code><img height="25" src="assets/icons/ico_aws.jpg" alt="Amazon Web Services"></code>](https://aws.amazon.com) | [<code><img height="25" src="assets/icons/ico_tf.jpg" alt="tensorflow+keras"></code>](https://www.tensorflow.org) | [<code><img height="25" src="assets/icons/ico_pytorch.jpg" alt="pytorch"></code>](https://pytorch.org) | [<code><img height="25" src="assets/icons/ico_matlab.jpg" alt="MATLAB"></code>](https://www.mathworks.com/products/matlab.html) | [<code><img height="25" src="assets/icons/ico_html.jpg" alt="html5"></code>](https://html.com) | [<code><img height="25" src="assets/icons/ico_opencv.jpg" alt="OpenCV"></code>](https://opencv.org) | [<code><img height="25" src="assets/icons/ico_mxnet.jpg" alt="Apache MXNet"></code>](https://mxnet.apache.org) |
-
-## Future Targets
-
-1. Experience leading a team of my own.
-2. Seeing even more how high scale breaks things, and how to stay on top of it.
 
 ---
 
