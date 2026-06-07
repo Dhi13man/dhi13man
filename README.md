@@ -63,6 +63,7 @@ Reach out to me directly on [LinkedIn](https://linkedin.com/in/dhi13man) or [Twi
 ### ⚙️ My System
 
 - OS: Windows 11 + WSL2 (Ubuntu)
+- Laptop: Lenovo Legion Pro 7 16IAX10H (Intel Core Ultra 9 275HX, 32 GB RAM)
 - Browser: Firefox and Chrome
 - IDEs: I swear by JetBrains IDEs and VS Code.
 
