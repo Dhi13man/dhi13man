@@ -11,9 +11,10 @@
 
 | [<img height="300" width="400" src="https://raw.githubusercontent.com/Dhi13man/dhi13man/main/.github/images/demo_cvgc.gif" alt="Computer Vision Hand Gesture based Controller">](https://github.com/Dhi13man/CV-HandGestureControl) |
 | :------------------: |
+
 </div>
 
-I have a Bachelor of Technology in Electronics and Communication Engineering 🔌📶 from the National Institute of Technology (NIT), Silchar 🎓 and I am currently working as a [Software Engineer 2 at Groww!](https://groww.in/) 📉💹📈
+I have a Bachelor of Technology in Electronics and Communication Engineering 🔌📶 from the National Institute of Technology (NIT), Silchar 🎓 and I am currently a **Full-Stack Software Engineer 2 at [Rippling](https://www.rippling.com/)** 🛠️ — on the PEO (B2B HR Services) team, improving Underwriting and Workers' Compensation flows. Before this, I spent **four years at [Groww](https://groww.in/)** 📉💹📈 building payment systems that handle 300K+ transactions a day for 13M+ users.
 
 I like to think of myself as a jack of all trades, and a master of whatever I need to be, whether it be anything from IoT 🤖 or Application Development 👨‍💻, or Deep Learning and Artificial Intelligence 🧠, or just random factoids about Game Theory 📊📈. I aim to help come up with scalable solutions to problems and work with teams that build industry-changing technology. I also love to guide and teach in fields I am confident in. 👨‍🏫
 
@@ -27,8 +28,8 @@ Reach out to me directly on [LinkedIn](https://linkedin.com/in/dhi13man) or [Twi
 ## Current Targets
 
 1. Getting better at building **optimised** and **scalable** solutions that can handle changing requirements.
-2. Freelancing in the **`IoT`** and **`Application Development`** space.
-3. Building a B2B SaaS venture in the ed-tech space.
+2. Going deep on **full-stack product engineering** at scale — currently in HR-tech (underwriting & workers' compensation) at Rippling.
+3. Building and shipping **B2B SaaS** products (most recently [EzHomeo](https://www.ezhomeo.com/) — AI tooling for homeopathic practitioners).
 4. Contributing to **[Open Source](https://github.com/Dhi13man?tab=repositories)**.
 
 | [<img height="400" width="400" src="assets/demos/demo_safesync.png" alt="SafeSync IoT Dashboard: A full-fledged Employee Management and Workspace Health and Safety ensuring Solution">](https://github.com/Dhi13man/SafeSyncIoT) | [<img height="400" width="400" src="assets/demos/infrawake.jpg" alt="InfrAwake: IoT Driver Safety Solution">](https://www.eminencerobotics.org/) |
@@ -39,12 +40,12 @@ Reach out to me directly on [LinkedIn](https://linkedin.com/in/dhi13man) or [Twi
 
 ## Personal Work and Growth
 
-- 🛠 &nbsp; Currently conquering IoT development and Innovation Challenges all over the country with my team, Eminence Robotics.
-- 🚀 &nbsp; Developing Cross Platform Applications for myself and my clients.
+- 🛠 &nbsp; Building full-stack systems at Rippling (PEO / B2B HR Services) by day, and B2B SaaS + open-source the rest of the time.
+- 🚀 &nbsp; Founded ventures that shipped real products — [AgriJod](https://agrijod.in/) (acquired) and the award-winning Dostana.AI (ONDC Build-for-Bharat National Runner-up, Tata Imagination Challenge National Winner).
 - 👨🏻‍💻 &nbsp; Many of my projects are available on [Github](https://github.com/Dhi13man?tab=repositories).
 - 💬 &nbsp; Ask me about anything [here](https://github.com/Dhi13man/dhi13man/issues/1)! I am happy to help.
-- 📫 &nbsp; Contact me at: furyx.ds@gmail.com
-- 📝 &nbsp; Checkout my [Resume](https://drive.google.com/file/d/17TrMgHoc7ZR2nsKijzk4slW5lATGI5AN/view?usp=sharing).
+- 📫 &nbsp; Contact me at: <furyx.ds@gmail.com>
+- 📝 &nbsp; See my full experience and projects at [dhimanseal.com](https://www.dhimanseal.com/).
 
 ## Languages and Tools
 
